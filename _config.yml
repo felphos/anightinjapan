@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: felphos@gmail.com
 description: A Blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: felphos
 github_username: felphos
 theme: minima
